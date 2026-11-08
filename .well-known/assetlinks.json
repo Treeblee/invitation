@@ -1,0 +1,6 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": { "namespace": "android_app", "package_name": "com.treeblee.app", "sha256_cert_fingerprints": ["EMPREINTE_SHA256_DU_CERTIFICAT_ANDROID"] }
+  }
+]
